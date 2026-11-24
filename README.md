@@ -9,11 +9,7 @@ Hola, soy Samuel. Soy estudiante de 4º año del Grado en Ingeniería Informáti
 
 <h1><strong>Sobre mí:</strong></h1>
 
-- 🎓 Educación: Estudiante de 4º año en la Universidad Pablo de Olavide (UPO).
-
-- 💻 Especialidad: Ingeniería Informática en Sistemas de Información.
-
-- 🎯 Objetivo actual: Desarrollando mi Trabajo de Fin de Grado (TFG).
+- 🎓 Educación: Ingenierío Informática en Sistemas de Información.
 
 - 🌱 Actualmente aprendiendo: Inteligencia artificial cuántica y explicabilidad.
 
